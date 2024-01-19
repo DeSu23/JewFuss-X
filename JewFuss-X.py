@@ -22,7 +22,7 @@ import shutil
 import sys
 
 
-TOKEN = "MTE5Nzk5Nzc2MTk3MTM2NDAxMQ.G7KOZl.gMDCR54Nevpfvm2qWvCVhf0WnBtrfPAnomLExI"
+TOKEN = "PUT YOUR NIGGER-TOKEN HERE!"
 intents = discord.Intents.all()
 
 bot = commands.Bot(command_prefix='$', intents=intents)
