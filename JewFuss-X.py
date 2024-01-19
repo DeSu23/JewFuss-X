@@ -21,7 +21,6 @@ import os
 import shutil
 import sys
 
-
 TOKEN = "PUT YOUR NIGGER-TOKEN HERE!"
 intents = discord.Intents.all()
 
